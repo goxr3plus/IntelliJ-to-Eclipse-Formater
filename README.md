@@ -5,3 +5,6 @@ We are working in multiple teams ... some of us are using Intellij and some othe
 So i decided to create a plugin for it [ when and how is other thing ]
 
 Let me know if you want to contribute.
+
+
+#### That's a hard job really .... looking inside the generated fxmls .....
