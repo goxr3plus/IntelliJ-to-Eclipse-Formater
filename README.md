@@ -9,4 +9,4 @@ Let me know if you want to contribute.
 
 #### That's a hard job really .... looking inside the generated fxmls .....
 
-Have a look on differences between [Eclipse Formatter](https://raw.githubusercontent.com/goxr3plus/IntelliJ-to-Eclipse-Formater/master/ECLIPSE-FORMATTER.xml) and [IntelliJ Formatter](https://raw.githubusercontent.com/goxr3plus/IntelliJ-to-Eclipse-Formater/master/INTL-FORMATTER.XML)
+Have a look on differences between [Eclipse Code Formatter](https://raw.githubusercontent.com/goxr3plus/IntelliJ-to-Eclipse-Formater/master/ECLIPSE-FORMATTER.xml) and [IntelliJ Code Formatter](https://raw.githubusercontent.com/goxr3plus/IntelliJ-to-Eclipse-Formater/master/INTL-FORMATTER.XML)
